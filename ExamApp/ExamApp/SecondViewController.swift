@@ -2,7 +2,7 @@
 //  SecondViewController.swift
 //  ExamApp
 //
-//  Created by Iman Zarrabian on 07/06/16.
+//  Created by Lucas Marot on 10/06/2016.
 //  Copyright © 2016 Web School Factory. All rights reserved.
 //
 
